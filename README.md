@@ -1,26 +1,14 @@
-# 个人工具箱（2023 年 02 月 05 日更新）
+# 个人工具箱
 
 ## 前言
-
-自己一直是个工具控，也一直信奉着“工欲善其事，必先利其器”的理念，总是不断折腾和优化自己的硬件与软件，针对自己的一个特定需求会试图找到最优解，现在也慢慢找到了最适合自己使用习惯的解决方案。因为工作、学习和个人兴趣，设备经过很多次迭代，在这个时间节点作一下记录，后续也会不断更新，希望能够对其他人有所参考。
-
-> 注：下文所提及的所有软件服务均为本人购买/订阅或学生资格所享有的教育授权，请支持正版！
+fork by [yu-tools](https://github.com/pseudoyu/yu-tools)
+> 注：下文所提及的所有软件服务均为本人购买/订阅，请支持正版！
 
 ## 主要设备
-
-![my_desktop_setup_in_2022_may](https://image.pseudoyu.com/images/my_desktop_setup_in_2022_may.jpg)
-
 ### :computer: 电脑及配件
-
-- **Apple Mac Studio (2022)，M1 Max，64GB RAM，1T SSD**，家里主力电脑，疫情在家很提升工作学习幸福感
-- **Apple MacBook Pro (16-inch，2019) 银色，2.4 GHz 八核 Intel Core i9，32GB RAM，2T SSD**，高频使用，基本走哪都会背着，在公司外接显示屏使用
-- **Google Pixelbook Go 黑色，Intel Core i7，16GB RAM, 256GB Storage**，最近打算把自己业余学习项目以及 Crypto 相关的转到瘦客户端开发的模式，闲鱼淘了一个，真不错，配置了基本开发环境
-- **Raspberry Pi 3B+，1.4GHz 四核 ARM Cortex-A53，1G RAM，64 GB MicroSD**，几年前折腾的树莓派，最近寄来了，现在 SSH 连接作为一个开发机使用
-- **明基（BenQ）EW3270U 4K 显示器**，配合 Mac Studio 使用，在这个价位的 4K 里已经很不错了
-- **明基（BenQ）ScreenBar Halo 屏幕挂灯**，有了这个后基本上家里没开过主光源了，可以无线控制调节，很有氛围感
-- **HHKB Professional Hybrid Type-S 双模静音版键盘，白色有刻**，目前最爱的键盘
-- **Leopold FC660C 45g 静音版，灰白**，终于集齐了静电容三大经典，有线的所以打算长期连家里的 Mac Studio，HHKB 随身外带
-- **Xikii Industry 瀚文 75 客制化键盘，高能制造局限定款**，和 B 站联名的小粉键盘，家里主机的主力键盘
+- **Apple MacBook Pro (13-inch，2018) 灰色，2.5 GHz 四核 Intel Core i5，16GB RAM，512G SSD**，办公电脑
+- **Apple MacBook Air (13-inch，2020) 银色，M1，8GB RAM，256G SSD**，家用电脑
+- **ikbc pockerII**，一把京东买的红轴,一把闲鱼淘的茶轴
 - ~~**RealForce PFU 联名版 87 键，黑色**，备用键盘，也是静电容经典了，但是没有很习惯，可能后面玩游戏会用，毕竟 HHKB 键位特殊（寄给朋友了）~~
 - ~~**MM-Studio Class65 V2 客制化双模机械键盘，复古白**（原本想通过这把入坑客制化，但是没心情折腾了，等了三个月发团，刚到手就原价转卖了）~~
 - **Apple Magic Keyboard 键盘，白色**，开始用 HHKB 后就基本上不用了
@@ -473,22 +461,3 @@
   - **Apple Podcasts**，主要通过 iOS 端收听播客
   - **Pokémon Go**，最爱的游戏了，在香港留下了很多记忆，可惜回来后玩不了了
   - **YPlayer**，自动识别音视频字幕，手机端
-
-## Star 历史
-
-[![Star History Chart](https://api.star-history.com/svg?repos=pseudoyu/yu-tools&type=Date)](https://star-history.com/#pseudoyu/yu-tools&Date)
-
-## 贡献者
-
-<!-- readme: collaborators,contributors -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/pseudoyu">
-            <img src="https://avatars.githubusercontent.com/u/69753389?v=4" width="100;" alt="pseudoyu"/>
-            <br />
-            <sub><b>Yu Zhang</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: collaborators,contributors -end -->
